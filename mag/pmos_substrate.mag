@@ -1,0 +1,25 @@
+magic
+tech sky130A
+timestamp 1633808399
+<< nwell >>
+rect -33 -34 81 81
+<< mvnsubdiff >>
+rect 0 32 48 48
+rect 0 15 15 32
+rect 33 15 48 32
+rect 0 0 48 15
+<< mvnsubdiffcont >>
+rect 15 15 33 32
+<< locali >>
+rect 0 32 48 48
+rect 0 15 15 32
+rect 33 15 48 32
+rect 0 0 48 15
+<< viali >>
+rect 15 15 33 32
+<< metal1 >>
+rect 0 32 48 48
+rect 0 15 15 32
+rect 33 15 48 32
+rect 0 0 48 15
+<< end >>
