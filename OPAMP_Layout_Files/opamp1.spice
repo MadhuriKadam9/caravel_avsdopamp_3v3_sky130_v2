@@ -1,0 +1,17 @@
+* SPICE3 file created from opamp2.ext - technology: sky130A
+
+.option scale=10000u
+
+X0 vo vg gnd gnd sky130_fd_pr__nfet_01v8 w=999 l=56
+X1 vg vg gnd gnd sky130_fd_pr__nfet_01v8 w=999 l=56
+X2 vdd vbias a_80_n503# vdd sky130_fd_pr__pfet_01v8 w=1004 l=48
+X3 a_80_n503# vinp vg w_n634_n1455# sky130_fd_pr__pfet_01v8 w=2512 l=52
+X4 a_80_n503# vinm vo w_n634_n1455# sky130_fd_pr__pfet_01v8 w=2512 l=52
+C0 vo gnd 2.84fF
+C1 vg gnd 5.66fF
+C2 vinm gnd 2.16fF
+C3 vinp gnd 2.11fF
+C4 a_80_n503# gnd 5.06fF
+C5 w_n634_n1455# gnd 116.48fF
+C6 vdd gnd 144.35fF
+
